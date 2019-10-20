@@ -1,2 +1,5 @@
-#git仓库演示
-###说明 你好 git
+# git
+## hello ,git
+````js
+git add 文件
+````
